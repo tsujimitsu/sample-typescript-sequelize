@@ -13,6 +13,7 @@
     "s:migrate": "sequelize db:migrate",
     "s:migrate:undo": "sequelize db:migrate:undo",
     "s:migrate:undo:all": "sequelize db:migrate:undo:all",
+    "s:seed:create": "sequelize seed:generate",
     "s:seed:all": "sequelize db:seed:all",
     "s:seed:undo:all": "sequelize db:seed:undo:all"
   },
